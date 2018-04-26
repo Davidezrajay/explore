@@ -1,5 +1,6 @@
 ---
 items:
+ - greenstand/development-overview
  - hotosm/osm-tasking-manager2
  - RefugeRestrooms/refugerestrooms
  - ifmeorg/ifme
@@ -12,4 +13,4 @@ items:
 display_name: Social Impact
 created_by: mozzadrella
 ---
-Better lives through open source technology
+Better lives, better world through open source technology
